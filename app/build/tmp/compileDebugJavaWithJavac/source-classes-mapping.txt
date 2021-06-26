@@ -1,0 +1,15 @@
+com/example/firedb/MyAdapter.java
+ com.example.firedb.MyAdapter
+ com.example.firedb.MyAdapter$HoldView
+com/example/firedb/DataBindingTriggerClass.java
+ com.example.firedb.DataBindingTriggerClass
+com/example/firedb/DisplayActivity.java
+ com.example.firedb.DisplayActivity
+com/example/firedb/databinding/ActivityMainBinding.java
+ com.example.firedb.databinding.ActivityMainBinding
+com/example/firedb/MyModel.java
+ com.example.firedb.MyModel
+com/example/firedb/MainActivity.java
+ com.example.firedb.MainActivity
+com/example/firedb/BuildConfig.java
+ com.example.firedb.BuildConfig
